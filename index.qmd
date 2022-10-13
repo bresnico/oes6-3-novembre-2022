@@ -1,0 +1,37 @@
+---
+title: Formation FOCUS - Rencontre OES - HEP-VS (6)
+title-slide-attributes: 
+  data-background-image: img/fusee.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format:
+  revealjs:
+    transition: slide
+    background-transition: fade
+---
+
+## Ordre du jour
+
+- Contexte
+- Etat des affaires courantes et chiffres-clés
+- Premières régulations (boucle qualité)
+- Prochaines étapes
+- Divers
+
+## Contexte
+
+
+## Etat des affaires courantes et chiffres-clés
+
+
+## Premières régulations (boucle qualité)
+
+
+## Prochaines étapes
+
+
+## Divers
+
+
+## Crédits
+
