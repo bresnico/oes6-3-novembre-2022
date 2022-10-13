@@ -1,18 +1,22 @@
 ---
 title: Formation FOCUS
+from: markdown+emoji
 subtitle: Rencontre OES - HEP-VS (6)
 date: 3 novembre 2022
 title-slide-attributes: 
   data-background-image: img/fusee.jpeg
-  data-background-size: contain
-  data-background-opacity: "0.3"
+  data-background-size: absolute
 format:
   revealjs:
+    incremental: true
     transition: slide
     background-transition: fade
+    footer: "Formation FOCUS 2022-2024 - HEP-VS et partenaires"
+
 ---
 
-## Ordre du jour
+
+## Ordre du jour {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 - Contexte
 - Etat des affaires courantes et chiffres-clés
@@ -20,20 +24,89 @@ format:
 - Prochaines étapes
 - Divers
 
-## Contexte
+## Contexte {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+#### Session 1 : :on: en cours
+
+- Thème 1 : :white_check_mark: terminé
+- Thème 2 : :on: en cours
+- Thème 3 : :on: en attente
+- Thème 4 : :arrow_forward: en cours
+
+#### Session 2 : :new::pencil2: inscriptions ouvertes
+
+#### Session 3 : :soon: en attente
+
+## Etat des affaires courantes et chiffres-clés {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+#### Participant·es
+
+- Session 1 :
+- Session 2 : 
+
+#### Formatrices et formateurs
+
+- x interne
+- x externe
+    - bbb
+    - mmm
+
+## Premières régulations (boucle qualité) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+#### Contenus
+
+1. Ca roule
+
+#### Organisation
+
+:::: {.columns}
+
+::: {.column width="50%"}
+1. Horaires des vignettes
+    - le souci
+    - la solution
+    
+2. Parking au collège
+    - sss
+    - sss
+:::
+
+::: {.column width="50%"}
+
+3. Horaires des séances Teams
+    - enregistrer
+    - solution
+    
+4. Conférence 
+    - slides
+    - solution
+:::
+
+::::
+
+5. Le sens du thème 4
+    - le souci
+    - l'idée.
 
 
-## Etat des affaires courantes et chiffres-clés
+## Prochaines étapes {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
+Session 1 :
 
-## Premières régulations (boucle qualité)
+- (novembre 2022) Effets sur le thème 4
+- (novembre 2022) Evaluation qualité
+- (février 2023) Lancement du thème 3
+- (avril 2023) Réalisation des feedbacks
 
+Session 2 : 
 
-## Prochaines étapes
+- (date) lancement avec mot de l'OES
 
+## Divers {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-## Divers
+- Relations avec les partenaires
+- Finances
+- R&D
 
-
-## Crédits
+<!-- ## Crédits {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"} -->
 
