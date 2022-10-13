@@ -16,7 +16,7 @@ format:
 ---
 
 
-## Ordre du jour {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Ordre du jour {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 - Contexte
 - Etat des affaires courantes et chiffres-clés
@@ -24,7 +24,7 @@ format:
 - Prochaines étapes
 - Divers
 
-## Contexte {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Contexte {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 #### Session 1 : :on: en cours
 
@@ -44,12 +44,18 @@ format:
 - Session 1 :
 - Session 2 : 
 
+#### Demandes particulières
+
+- :one::one: en emoji assistances mineures et diverses
+- :one::one: en emoji aménagements et exemptions
+
 #### Formatrices et formateurs
 
 - x interne
 - x externe
     - bbb
     - mmm
+
 
 ## Premières régulations (boucle qualité) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
