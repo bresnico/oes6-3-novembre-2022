@@ -1,5 +1,7 @@
 ---
-title: Formation FOCUS - Rencontre OES - HEP-VS (6)
+title: Formation FOCUS
+subtitle: Rencontre OES - HEP-VS (6)
+date: 3 novembre 2022
 title-slide-attributes: 
   data-background-image: img/fusee.jpeg
   data-background-size: contain
