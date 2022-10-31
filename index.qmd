@@ -12,6 +12,7 @@ format:
     transition: slide
     background-transition: fade
     footer: "Formation FOCUS 2022-2024 - HEP-VS et partenaires"
+    scrollable: true
 
 ---
 
@@ -29,8 +30,8 @@ format:
 #### Session 1 : :on: en cours
 
 - Thème 1 : :white_check_mark: terminé
-- Thème 2 : :on: en cours
-- Thème 3 : :on: en attente
+- Thème 2 : :arrow_forward: en cours
+- Thème 3 : :soon: en attente
 - Thème 4 : :arrow_forward: en cours
 
 #### Session 2 : :new::pencil2: inscriptions ouvertes
@@ -41,59 +42,50 @@ format:
 
 #### Participant·es
 
-- Session 1 :
-- Session 2 : 
+- Session 1 : :one::one::six: - :one::one::eight:
+- Session 2 : :seven::zero: - :eight::zero::pencil2:
 
 #### Demandes particulières
 
-- :one::one: en emoji assistances mineures et diverses
-- :one::one: en emoji aménagements et exemptions
+- :three::six: demandes enregistrées (assistance majeure, aménagements, exemptions)
+- :four::eight: demandes traitées par mail (assistance mineure, divers)
 
 #### Formatrices et formateurs
 
-- x interne
-- x externe
-    - bbb
-    - mmm
-
+- :zero::six: en interne
+- :two::zero: en externe
 
 ## Premières régulations (boucle qualité) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 #### Contenus
 
-1. Ca roule
+1. :ok: Thèmes 1, 2 et 3
+2. Thème 4 :
+
+    - :ok: CUA et PSE·R
+    - :bangbang: Affinage livrables (voir plus bas)
 
 #### Organisation
 
-:::: {.columns}
-
-::: {.column width="50%"}
 1. Horaires des vignettes
-    - le souci
-    - la solution
+    - :bangbang: Compatibilité avec les horaires de travail en VS central
+    - :white_check_mark: Souplesse dans l'accueil des personnes (17h00 à 19h00 maintenu)
     
-2. Parking au collège
-    - sss
-    - sss
-:::
-
-::: {.column width="50%"}
+2. Parking au Collège
+    - :bangbang: Demande de parcage dans la propriété du Collège
+    - :white_check_mark: Demande sera faite
 
 3. Horaires des séances Teams
-    - enregistrer
-    - solution
+    - :bangbang: Possibilité de suivre en distanciel asynchrone
+    - :white_check_mark: Solution équilibrée de l'OES - à la discrétion des formateurs ; mise en pratique durant le thème 2
     
 4. Conférence 
-    - slides
-    - solution
-:::
+    - :bangbang: Demande des slides avant/après la conférence
+    - :white_check_mark: A la discrétion des formateurs ; slides fournies avant la conférence pour le thème 2
 
-::::
-
-5. Le sens du thème 4
-    - le souci
-    - l'idée.
-
+5. Le sens du thème 4 et ses livrables
+    - :bangbang: Besoin de cadre, de clarté, de prévisibilité, de sens
+    - :white_check_mark: Adaptation douce aux cultures via un [formulaire](https://forms.office.com/Pages/ResponsePage.aspx?id=FvA2WKRiO02jLEYjtJyONJ7-QSp1141HtmzaeCXHRL1UOEZCTjNZVjhSMTM0V0MzVVBESVdZSlFTSy4u) qui engage dans le processus
 
 ## Prochaines étapes {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
@@ -106,7 +98,7 @@ Session 1 :
 
 Session 2 : 
 
-- (date) lancement avec mot de l'OES
+- (1er mars 2023) lancement - Mot de l'OES
 
 ## Divers {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
